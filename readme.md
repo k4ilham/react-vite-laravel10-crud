@@ -2,6 +2,8 @@ Tutorial React dan Laravel 10 #1: Cara Install dan Menjalankan React (Vite)
 
 https://www.santrikoding.com/tutorial-react-dan-laravel-10-3-menampilkan-data-di-react-dari-rest-api
 
+https://github.com/k4ilham/laravel10-api-post
+
 npm create vite@4.2.0 react-crud -- --template react
 
 npm install
